@@ -3,6 +3,7 @@ const connection = require('../config/db_config');
 var student_router = express.Router();
 const mysql = require('mysql');
 //AAAAAAAAAAAAAAAA
+//Wr crt
 var st="<!DOCTYPE html><HTML><HEAD></HEAD><BODY>";
 var et="</BODY></HTML>";
 
